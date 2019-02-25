@@ -1,0 +1,4 @@
+{
+  "allergies/allergies_test.py::AllergiesTest::test_ignore_non_allergen_score_parts": true,
+  "allergies/allergies_test.py::AllergiesTest::test_ignore_non_allergen_score_parts_only_eggs": true
+}
